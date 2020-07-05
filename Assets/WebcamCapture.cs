@@ -9,7 +9,7 @@ public class WebcamCapture : MonoBehaviour
     private Material _material = default;
 
     /// <summary>
-    /// Texture containing the webcam capture, will be send to the shader.
+    /// Texture containing the webcam capture, will be sent to the shader.
     /// </summary>
     private WebCamTexture _webCamTexture;
 
